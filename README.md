@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TurtleFul
+- 👀 I’m interested in Networking, security, linux and devOps
+- 🌱 I’m currently learning Containers
+- 📫 More info on me can be found at andri.tech
